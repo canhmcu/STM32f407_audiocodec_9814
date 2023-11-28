@@ -1,0 +1,1 @@
+stm32f407_max9814_v3a\startup_stm32f407xx.o: startup_stm32f407xx.s
